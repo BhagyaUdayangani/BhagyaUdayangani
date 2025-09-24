@@ -1,5 +1,4 @@
 ## Hi there 👋
----
 
 # 🚀 Bhagya Udayangani – Senior Software Engineer
 
