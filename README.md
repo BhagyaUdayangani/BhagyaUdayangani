@@ -6,36 +6,25 @@ Results-driven **Senior Software Engineer** with nearly 5 years of experience de
 
 ---
 
-## 📌 About Me
-
-* 💻 Backend Engineer with expertise in **Java (8/11/17), Spring Boot, WebFlux, Hibernate, JPA**
-* ☁️ Cloud & DevOps: **AWS (Lambda, S3, ECS/EKS, Rekognition), Docker, Kubernetes, CI/CD**
-* 📡 Distributed Systems: **Kafka, Redis, Elasticsearch, Circuit Breakers, ShedLock**
-* 🗄️ Databases: **MongoDB, MySQL**
-* 🎨 Frontend exposure: **React.js, Redux**
-* ⚡ Practices: **Microservices, OOP, Design Patterns, Agile/Scrum, Code Reviews**
-
----
-
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**💻 Languages & Frameworks**
 
 * Java, Spring Boot, Spring WebFlux, Hibernate, JPA, GraphQL
 
-**Cloud & DevOps**
+**☁️ Cloud & DevOps**
 
 * AWS (Lambda, ECS/EKS, S3, Rekognition), Docker, Kubernetes, CI/CD
 
-**Messaging & Distributed Systems**
+**📡 Messaging & Distributed Systems**
 
 * Kafka, Redis, Elasticsearch, Circuit Breaker, ShedLock
 
-**Databases**
+**🗄️ Databases**
 
 * MySQL, MongoDB
 
-**Frontend**
+**🎨 Frontend**
 
 * React.js, Redux
 
