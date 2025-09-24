@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 🚀 Bhagya Udayangani – Senior Software Engineer
+## Hi 👋, I'm Bhagya Udayangani – Senior Software Engineer 
 
 Results-driven **Senior Software Engineer** with nearly 5 years of experience designing and developing highly scalable distributed systems using **Java, Spring Boot, WebFlux, and cloud-native architectures (AWS)**. Passionate about building **microservices**, leading engineering teams, and delivering innovative solutions with measurable business impact.
 
