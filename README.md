@@ -36,3 +36,10 @@ Results-driven **Senior Software Engineer** with nearly 5 years of experience de
 * **LinkedIn**: [Bhagya Udayangani](http://www.linkedin.com/in/bhagya-udayangani-536bb215b)
 
 ---
+
+## 📊 GitHub Stats
+
+![Bhagya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhagyaUdayangani&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyaUdayangani&layout=compact&theme=tokyonight)
+
