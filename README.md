@@ -41,7 +41,5 @@ Results-driven **Senior Software Engineer** with nearly 5 years of experience de
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyaUdayangani&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhagyaUdayangani&theme=default" alt="GitHub Streak" />
-
 
 
